@@ -20,11 +20,6 @@
 		<c:param name="command" value="STUDENTS" />
 	</c:url>
 	
- 
-
- 
- 	 
-	
 	<a class="bar-item" href="${classesLink}">Classes</a> 
 		<a class="bar-item" href="${subjectsLink}">Subjects</a>
 		<a class="bar-item" href="${teachersLink}">Teachers</a> 

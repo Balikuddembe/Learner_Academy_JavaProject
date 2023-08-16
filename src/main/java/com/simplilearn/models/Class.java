@@ -1,14 +1,11 @@
 package com.simplilearn.models;
 
 public class Class {
-	
 	private int id;
 	private int section;
 	private String teacher;
 	private String subject;
 	private String time;
-	
-	
 	
 	public Class(int id, int section, String teacher, String subject, String time) {
 		super();
@@ -19,7 +16,6 @@ public class Class {
 		this.time = time;
 	}
 	
- 
 	public int getId() {
 		return id;
 	}
@@ -50,7 +46,4 @@ public class Class {
 	public void setTime(String time) {
 		this.time = time;
 	}
-	
-	
-
 }

@@ -7,10 +7,7 @@ public class Student {
 	private String lname;
 	private int age;
 	private int aclass;
-	
-	
-	
-	
+
 	public Student(int id, String fname, String lname, int age, int aclass) {
 		super();
 		this.id = id;
@@ -19,7 +16,6 @@ public class Student {
 		this.age = age;
 		this.aclass = aclass;
 	}
-	
 	
 	public int getId() {
 		return id;
@@ -52,13 +48,9 @@ public class Student {
 		this.aclass = aclass;
 	}
 
-
 	@Override
 	public String toString() {
 		return "Student [id=" + id + ", fname=" + fname + ", lname=" + lname + ", age=" + age + ", aclass=" + aclass
 				+ "]";
 	}
- 
-	
-
-}
+ }

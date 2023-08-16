@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="auto" />
+
 # Administrative-portal-for-Learner-s-Academy
 ## Project' Details
 This project aims to design and develop a backend administrative portal for the Learner’s Academy using Java EE technologies. I developed it as a project of phase 2 for the Become a back-end expert course with [simplilearn online bootcamp](https://www.simplilearn.com/).

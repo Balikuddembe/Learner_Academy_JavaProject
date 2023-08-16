@@ -52,7 +52,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 
 ## How to run the program
-•	clone project
+•	clone project (``git clone https://github.com/Balikuddembe/Learner_Academy_JavaProject.git`` )
 
 •	Import the “database\database.sql” file to your database administration tool.
 
